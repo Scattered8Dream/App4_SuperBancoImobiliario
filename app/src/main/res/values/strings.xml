@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SuperBancoImobiliárioDMO</string>
+    <string name="startGame">Começar o Jogo!</string>
+    <string name="player1">Jogador 1</string>
+    <string name="saldo">Saldo:</string>
+    <string name="player2">Jogador 2</string>
+    <string name="type_value">Digite o valor!</string>
+    <string name="transferir">Transferir!</string>
+    <string name="player3">Jogador 3</string>
+    <string name="player4">Jogador 4</string>
+    <string name="player5">Jogador 5</string>
+    <string-array name="spinner">
+        <item>Jogador 1</item>
+        <item>Jogador 2</item>
+        <item>Jogador 3</item>
+        <item>Jogador 4</item>
+        <item>Jogador 5</item>
+        <item>Jogador 6</item>
+    </string-array>
+</resources>
